@@ -10,7 +10,7 @@ Servo wrist_rot;
 Servo gripper; 
 
 
-int CONSTANT_SPEED = 15;
+int CONSTANT_SPEED = 10;
 int FULL_SPEED = 10;
 int SLOW_SPEED = 30;
 
@@ -50,7 +50,7 @@ void loop() {
 }
 
 void stop() { 
-  delay(2000); 
+  delay(5000); 
 }
 int changeRotation() {
    if(rotation > 180) { 
@@ -59,5 +59,9 @@ int changeRotation() {
    rotation = rotation + 40;
    return rotation;
 }
+
+
+
+
 
 
