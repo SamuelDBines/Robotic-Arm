@@ -13,10 +13,14 @@ Go to Sketch > Include Library > Manage Libraries > Search Braccio and then inst
 
 Now copy the code from you want from the relevant file 
 
-### Step three
+### Step Three 
+
+Go to tools > Port where it says (Ardunio/uno) > click the port for example COM3  
+
+### Step Four
 
 upload the code to the ardunio board using the upload arrow 
 
-#### Step Four 
+#### Step Five 
 
 Once installed you should be able to use the robotic arm.
