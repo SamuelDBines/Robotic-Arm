@@ -7,7 +7,7 @@ Load up the Arduino software and make download the Braccio library.
 
 ##### Downloading the Braccio library
 
-Go to Sketch > Import Library > Braccio and then install.
+Go to Sketch > Include Library > Manage Libraries > Braccio and then install.
 
 ### Step two
 
